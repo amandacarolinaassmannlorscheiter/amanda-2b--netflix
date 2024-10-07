@@ -26,3 +26,17 @@ header{border:solid 2px rgb(8,8,8);
             gap:10px;
             
         }
+        .categoria{
+            padding-left: 20px;
+            padding-right: 20px;
+            margin-top: 50px;
+        }
+        .categoria-videos img{
+                opacity: 0.5;
+                height: 200px;
+        }
+        .categoria-videos img:hover{
+                opacity: 1.0;
+                border:3px sold rgb(10,20,30)}
+            .categoria h2{color:rgb(10,20,30)
+        }
